@@ -1,0 +1,1 @@
+// Vue 3 app logic with login, patient list, records, and localStorage binding
